@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  background: url(../img/background.png) center center fixed;
+  background-size: 100% 100vh;
+}
+#container-one {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-selector {
+  margin-top: 10px;
+}
+
+#container-two {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+h1 {
+  color: white;
+}
